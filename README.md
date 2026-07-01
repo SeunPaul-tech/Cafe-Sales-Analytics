@@ -2,8 +2,9 @@
 
 ## Portfolio Case Study
 
-Cafe Sales Analysis Using SQL
-Portfolio Case Study
+Cafe Sales Analysis 
+
+<img width="901" height="504" alt="Sales Dashboard pbi" src="https://github.com/user-attachments/assets/6f26994c-bbbf-4a51-b027-fe2c1ab8def0" />
 
 
 ## Executive Summary
